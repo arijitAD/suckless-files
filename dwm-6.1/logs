@@ -1,0 +1,135 @@
+_NET_WM_USER_TIME(CARDINAL) = 1273060
+WM_STATE(WM_STATE):
+		window state: Normal
+		icon window: 0x0
+WM_HINTS(WM_HINTS):
+		Client accepts input or input focus: True
+		Initial state is Normal State.
+		bitmap id # to use for icon: 0xc0001e
+		bitmap id # of mask for icon: 0xc00021
+		window id # of group leader: 0xc00001
+XdndAware(ATOM) = BITMAP
+_MOTIF_DRAG_RECEIVER_INFO(_MOTIF_DRAG_RECEIVER_INFO) = 0x6c, 0x0, 0x5, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x10, 0x0, 0x0, 0x0
+Vim(STRING) = "7.4"
+_NET_WM_ICON(CARDINAL) = 	Icon (48 x 48):
+	                       ██                       
+	                      █░░█                      
+	                     █░▒▒░█                     
+	      ███████████████░▒▒▒▒░█   ███████████████  
+	     █               █▒▒▒▒▒░█ █               █ 
+	    █                ░█▒▒▒▒▒░█                ░█
+	    █                ░█▒▒▒▒▒▒█                ░█
+	    █ ░              ░█▒▒▒▒▒▒█ ░              ░█
+	     █░░░         ░░░█▒▒▒▒▒▒▒▒█░░░           ░░█
+	      ██          ░░█▒▒▒▒▒▒▒▒▒▒██           ░░█ 
+	       █          ░░█▒▒▒▒▒▒▒▒▒▒█           ░░█  
+	       █          ░░█▒▒▒▒▒▒▒▒▒█           ░░█   
+	       █          ░░█▒▒▒▒▒▒▒▒█           ░░█    
+	       █          ░░█▒▒▒▒▒▒▒█           ░░█     
+	       █          ░░█▒▒▒▒▒▒█           ░░█      
+	       █          ░░█▒▒▒▒▒█           ░░█       
+	       █          ░░█▒▒▒▒█           ░░██       
+	      ██          ░░█▒▒▒█           ░░█▒░█      
+	     █░█          ░░█▒▒█           ░░█▒▒▒░█     
+	    █░▒█          ░░█▒█           ░░█▒▒▒▒▒░█    
+	   █░▒▒█          ░░██           ░░█▒▒▒▒▒▒▒░█   
+	  █░▒▒▒█          ░░█           ░░█▒▒▒▒▒▒▒▒▒░█  
+	 █░▒▒▒▒█          ░░           ░░█▒▒▒▒▒▒▒▒▒▒▒░█ 
+	█░▓▒▒▒▒█          ░░          ░░█▒▒▒▒▒▒▒▒▒▒▒▒▒░█
+	 █▓▓▒▒▒█          ░          ░░█▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓█
+	  █▓▓▒▒█          ░         ░░█▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓█ 
+	   █▓▓▒█                   ░░█▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓█  
+	    █▓▓█                 ████▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓█   
+	     █▓█                █   █▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓    
+	      ██                █   █▒▒▒▒▒▒▒▒▒▒▒▓▓█     
+	       █                █   █▒▒▒▒▒▒▒▒▒▒▓▓█      
+	       █               ░░███▒▒▒▒▒▒▒▒▒▒▓▓█       
+	       █              ░░███▒▒████▒▒████▓████    
+	       █             ░░██  ██    ██    ██   █   
+	       █            ░░██   █▒█               █  
+	       █           ░░█▒█   █▒█               █  
+	       █          ░░█▒▒█  █▒▒█  ████  ████  █   
+	       █         ░░█▒▒█   █▒█   █▓█   █ █   █   
+	       █        ░░█▒▒▒█  █▒▒█  █▓▓█  █  █  █    
+	       █       ░░█▒▒▒█   █▒█   █▓█   █ █   █    
+	       █      ░░█▓▓▒▒█  █▒▒█  ██ █  █  █  █     
+	       █     ░░█ █▓▓█   █▒█   █ █   █ █   █     
+	        █░░░░░█   █▓█    ██    ██    ██    █    
+	         █████     █▓████▒▓████  ████  ████     
+	                    █▓▓▒▒▓▓█                    
+	                     █▓▓▓▓█                     
+	                      █▓▓█                      
+	                       ██                       
+
+	Icon (32 x 32):
+	               ██               
+	              █░░█              
+	   ███████████░▒▒░█ █████████   
+	  █           █▒▒▒░█         █  
+	  █            █▒▒▒█          █ 
+	   █          ░█▒▒▒▒█        ░█ 
+	    █░      ░░█▒▒▒▒▒▒█░     ░░█ 
+	    █       ░█▒▒▒▒▒▒█      ░░█  
+	    █       ░█▒▒▒▒▒█      ░░█   
+	    █       ░█▒▒▒▒█      ░░█    
+	    █       ░█▒▒▒█      ░░█     
+	    █       ░█▒▒█      ░░█░█    
+	   ██       ░█▒█      ░░█▒▒░█   
+	  █░█       ░██      ░░█▒▒▒▒░█  
+	 █░▒█       ░█      ░░█▒▒▒▒▒▒░█ 
+	█░▒▒█       ░      ░░█▒▒▒▒▒▒▒▒░█
+	█▓▒▒█       ░     ░░█▒▒▒▒▒▒▒▒▒▓█
+	 █▓▒█       ░    ░░█▒▒▒▒▒▒▒▒▒▓█ 
+	  █▓█           ███▒▒▒▒▒▒▒▒▒▓█  
+	   ██          █  █▒▒▒▒▒▒▒▒▓█   
+	    █          █  █▒▒▒▒▒▒▒▓█    
+	    █         ░███▒███▒██████   
+	    █        ░█   █   █   █  █  
+	    █       ░░██  ██          █ 
+	    █      ░░██  ███  ▓▓  ██ █  
+	    █     ░░█▒█  ██  ▓█  ██  █  
+	    █    ░░█▒▒█  ██  ██  ██  █  
+	    █   ░░██▓█  ██  ██  ██  █   
+	     █ ░░█  ██   █  ██  ██   █  
+	      ███    ████▓██  ██  ███   
+	              █▓▓█              
+	               ██               
+
+	Icon (16 x 16):
+	  █████░█ ████  
+	 █     █▒█    █ 
+	 █     ░██    ░█
+	  █   ░█▒█   ░█ 
+	  █   ░██   ░█  
+	  █   ░█   ░██  
+	 ░█   ░   ░█▒▒█ 
+	░▒█      ░█▒▒▒▒█
+	█▒█     ██▒▒▒▒▓ 
+	 ██    █ ███▒█  
+	  █    ███  █ █ 
+	  █   █  █     █
+	  █  ░██ █ █ █ █
+	  █ ░█▒█ █ █ █ █
+	   ██ █  █ █ █ █
+	       ██ █ █ █ 
+
+
+WM_WINDOW_ROLE(STRING) = "vim-1489-2848973492-1463687133"
+_NET_WM_SYNC_REQUEST_COUNTER(CARDINAL) = 12582917
+_NET_WM_WINDOW_TYPE(ATOM) = _NET_WM_WINDOW_TYPE_NORMAL
+_NET_WM_USER_TIME_WINDOW(WINDOW): window id # 0xc00004
+WM_CLIENT_LEADER(WINDOW): window id # 0xc00001
+_NET_WM_PID(CARDINAL) = 1489
+WM_LOCALE_NAME(STRING) = "en_US.UTF-8"
+WM_CLIENT_MACHINE(STRING) = "taters"
+WM_NORMAL_HINTS(WM_SIZE_HINTS):
+		program specified minimum size: 100 by 35
+		program specified resize increment: 8 by 15
+		program specified base size: 4 by 5
+		window gravity: NorthWest
+WM_PROTOCOLS(ATOM): protocols  WM_DELETE_WINDOW, WM_TAKE_FOCUS, _NET_WM_PING, _NET_WM_SYNC_REQUEST, WM_SAVE_YOURSELF
+WM_CLASS(STRING) = "gvim", "Gvim"
+WM_ICON_NAME(STRING) = "[No Name] - GVIM"
+_NET_WM_ICON_NAME(UTF8_STRING) = "[No Name] - GVIM"
+WM_NAME(STRING) = "[No Name] - GVIM"
+_NET_WM_NAME(UTF8_STRING) = "[No Name] - GVIM"
